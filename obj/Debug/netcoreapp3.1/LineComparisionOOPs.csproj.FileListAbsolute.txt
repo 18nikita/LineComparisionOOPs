@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\LineComparisionOOPs\LineComparisionOOPs\bin\Debug\netcoreapp3.1\LineComparisionOOPs.exe
+C:\Users\Admin\source\repos\LineComparisionOOPs\LineComparisionOOPs\bin\Debug\netcoreapp3.1\LineComparisionOOPs.deps.json
+C:\Users\Admin\source\repos\LineComparisionOOPs\LineComparisionOOPs\bin\Debug\netcoreapp3.1\LineComparisionOOPs.runtimeconfig.json
+C:\Users\Admin\source\repos\LineComparisionOOPs\LineComparisionOOPs\bin\Debug\netcoreapp3.1\LineComparisionOOPs.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\LineComparisionOOPs\LineComparisionOOPs\bin\Debug\netcoreapp3.1\LineComparisionOOPs.dll
+C:\Users\Admin\source\repos\LineComparisionOOPs\LineComparisionOOPs\bin\Debug\netcoreapp3.1\LineComparisionOOPs.pdb
+C:\Users\Admin\source\repos\LineComparisionOOPs\LineComparisionOOPs\obj\Debug\netcoreapp3.1\LineComparisionOOPs.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LineComparisionOOPs\LineComparisionOOPs\obj\Debug\netcoreapp3.1\LineComparisionOOPs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\LineComparisionOOPs\LineComparisionOOPs\obj\Debug\netcoreapp3.1\LineComparisionOOPs.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\LineComparisionOOPs\LineComparisionOOPs\obj\Debug\netcoreapp3.1\LineComparisionOOPs.AssemblyInfo.cs
+C:\Users\Admin\source\repos\LineComparisionOOPs\LineComparisionOOPs\obj\Debug\netcoreapp3.1\LineComparisionOOPs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LineComparisionOOPs\LineComparisionOOPs\obj\Debug\netcoreapp3.1\LineComparisionOOPs.dll
+C:\Users\Admin\source\repos\LineComparisionOOPs\LineComparisionOOPs\obj\Debug\netcoreapp3.1\LineComparisionOOPs.pdb
+C:\Users\Admin\source\repos\LineComparisionOOPs\LineComparisionOOPs\obj\Debug\netcoreapp3.1\LineComparisionOOPs.genruntimeconfig.cache
